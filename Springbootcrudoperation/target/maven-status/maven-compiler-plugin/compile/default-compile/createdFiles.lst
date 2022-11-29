@@ -1,0 +1,6 @@
+com/ducat/springboot/rest/model/Employee.class
+com/ducat/springboot/rest/service/Myserviceimpl.class
+com/ducat/springboot/rest/Myapplication.class
+com/ducat/springboot/rest/controller/Mycontroller.class
+com/ducat/springboot/rest/dao/Mydaorepository.class
+com/ducat/springboot/rest/service/Myservice.class
